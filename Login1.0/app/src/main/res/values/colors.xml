@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <!--Login1-->
+    <color name="cardColorLogin1">#A24167</color>
+
+    <!--Login2-->
+    <color name="descriptionLogin2">#F8F5F5</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorPurple">#983CFF</color>
+    <color name="colorPurpleT">#80983CFF</color>
+    <color name="colorBlue">#2FB4FF</color>
+    <color name="colorBlueT">#802FB4FF</color>
+
+
+</resources>
