@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#53535C</color>
+    <color name="colorPrimaryDark">#404147</color>
+    <color name="colorAccent">#8d8e98</color>
+
+    <!-- Blacks -->
+    <color name="black">#000000</color>
+    <color name="B000">#FFF</color>
+    <color name="B100">#dfe1e4</color>
+    <color name="B200">#c4c5c9</color>
+    <color name="B300">#a9aab1</color>
+    <color name="B400">#8d8e98</color>
+    <color name="B500">#73737e</color>
+    <color name="B600">#5e5c69</color>
+    <color name="B700">#4c4a57</color>
+    <color name="B800">#3c3e48</color>
+    <color name="B900">#000</color>
+
+    <!-- White -->
+    <color name="white">#FFFFFF</color>
+    <color name="white_guyabano">#F8F8F8</color>
+    <color name="white_cultured">#F5F5F5</color>
+
+    <color name="colorPurple">#983CFF</color>
+    <color name="colorPurpleT">#80983CFF</color>
+    <color name="colorBlue">#2FB4FF</color>
+    <color name="colorBlueT">#802FB4FF</color>
+
+</resources>
